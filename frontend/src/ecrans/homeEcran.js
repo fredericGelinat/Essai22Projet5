@@ -32,7 +32,8 @@ const HomeEcran = {
         `
             
             
-            )}
+            )
+            .join("\n")}
         `
     }
 }
